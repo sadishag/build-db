@@ -1,3 +1,7 @@
+# build-db
+
+> A db to keep track of build jobs in a hypothetical build system
+
 ## Getting Started
 
 ### Starting and Stopping SQL Server Docker Container
